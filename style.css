@@ -5,6 +5,17 @@
 .head-cv {
     background-color: #ECECEC;
     border-style: solid;
+    width: 100%;
+    display: flex;
+}
+
+.profil-image img {
+    border-style: solid;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+    /*background-image: url("https://media-exp1.licdn.com/dms/image/C4D03AQFT8navVi_XTQ/profile-displayphoto-shrink_800_800/0/1538328089922?e=1672272000&v=beta&t=1jWpNX2vPmDD6t1sM_vLs3_zTQdY0Vx7Xy_0K2dWclo");*/
 }
 
 section {
@@ -55,9 +66,9 @@ h2 {
     text-align: center;
 }
 
-img {
-    height: 100%;
-    width: 100%;
+/*img {   
+    /* height: 100%;
+    width: 100%; */
 }
 
 aside {
